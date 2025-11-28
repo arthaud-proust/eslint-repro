@@ -1,5 +1,8 @@
 # Reproduction for ESLint Issue
 
+- eslint/eslint#20358
+
+
 I cannot ignore eslint-suppressions.json file when running eslint
 
 ## Wanted behavior
